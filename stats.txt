@@ -1,0 +1,2 @@
+/*totalscore, totalsquares, totalmisses, bestscore, bestlevel*/
+0-0-0-0-0
